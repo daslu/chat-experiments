@@ -1,0 +1,5 @@
+{:remote-repo {:git-url "https://github.com/daslu/chat-experiments"
+               :branch "main"}
+ :quarto {:title "Chat datavis experiment - 2025-02-06"}}
+
+
